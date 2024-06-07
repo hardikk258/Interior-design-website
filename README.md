@@ -1,6 +1,6 @@
 # Interior Design Startup Website
 
-![Interior Design Startup Website](https://example.com/your-image.png)
+![Interior Design Startup Website](https://github.com/hardikk258/Interior-design-website/blob/main/public/assets/thumbnail.png)
 
 This project is a fully responsive website developed for an interior design startup using ReactJS, TailwindCSS, JavaScript, CSS, and HTML. The website features multiple sections, including a Navigation Bar, Footer, and Contact Us form, to enhance user experience and showcase the startup's portfolio.
 
