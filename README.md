@@ -4,6 +4,10 @@
 
 This project is a fully responsive website developed for an interior design startup using ReactJS, TailwindCSS, JavaScript, CSS, and HTML. The website features multiple sections, including a Navigation Bar, Footer, and Contact Us form, to enhance user experience and showcase the startup's portfolio.
 
+## Demo
+
+You can see a live demo of the game here:- https://interior-design-website-op.vercel.app/
+
 ## Features
 
 - **Responsive Design**: The website is designed to adapt seamlessly to various screen sizes, ensuring a consistent user experience across devices.
