@@ -6,7 +6,7 @@ This project is a fully responsive website developed for an interior design star
 
 ## Demo
 
-You can see a live demo of the game here:- https://interior-design-website-op.vercel.app/
+You can see a live demo here:- https://interior-design-website-op.vercel.app/
 
 ## Features
 
